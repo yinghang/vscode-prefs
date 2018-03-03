@@ -1,0 +1,31 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "Atom One Light",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "workbench.sideBar.location": "left",
+    "workbench.fontAliasing": "antialiased",
+    "window.zoomLevel": 0,
+    "editor.fontWeight": "450",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "editor.cursorBlinking": "solid",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        "*.ml": "ocaml",
+        "*.mli": "ocaml"
+    },
+    "editor.lineHeight": 28,
+    "javascript.validate.enable": false,
+    "explorer.autoReveal": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "sublimeTextKeymap.promptV3Features": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "editor.snippetSuggestions": "top"
+  }
